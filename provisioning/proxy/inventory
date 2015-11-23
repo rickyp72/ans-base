@@ -1,0 +1,1 @@
+proxy ansible_ssh_host=192.168.9.94 ansible_ssh_port=22
