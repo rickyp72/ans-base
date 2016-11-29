@@ -1,0 +1,10 @@
+/.vagrant/
+*/*.crt
+*/*.key
+*/*.csr
+*/*/*.crt
+*/*/*.key
+*/*/*.csr
+*/.DS_Store
+/kibana*
+.DS_Store
